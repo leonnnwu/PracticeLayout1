@@ -1,11 +1,12 @@
 package com.hencoder.hencoderpracticelayout1.common;
 
 import android.content.Context;
-import android.support.v7.widget.AppCompatSeekBar;
 import android.util.AttributeSet;
 import android.widget.FrameLayout;
 import android.widget.RelativeLayout;
 import android.widget.SeekBar;
+
+import androidx.appcompat.widget.AppCompatSeekBar;
 
 import com.hencoder.hencoderpracticelayout1.R;
 import com.hencoder.hencoderpracticelayout1.Utils;
